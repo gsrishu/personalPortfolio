@@ -1,0 +1,111 @@
+
+  .BodyContent{
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    scroll-behavior: smooth;
+    color: #9f9f9f;
+    background-color: #0F0F0F;
+    line-height: 19.2px;
+    padding-top: 50px;
+  }
+  .Header{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .LetsTalk{
+    background: var(--dark);
+    color: #fff;
+    display: inline-block;
+    transition: .3s;
+    border-radius: 16px;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 12px 30px;
+  }
+  .InfoBox1{
+    padding: 50px 46px;
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    left: 0;
+    top: 0;
+    border-radius: 51px;
+    object-fit: cover;
+    background-color: #54595F;
+    position: absolute;
+  }
+  .InfoBox2{
+    padding: 50px 46px;
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    left: 0;
+    top: 0;
+    border-radius: 51px;
+    object-fit: cover;
+    background-color: #54595F;
+  }
+  .InfoBox3{
+    padding: 50px 46px;
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    left: 0;
+    top: 0;
+    border-radius: 51px;
+    object-fit: cover;
+    background-color: #54595F;
+  }
+  .rightInfoBox{
+      position: relative;
+  }
+  .containerFirst{
+    display: block;
+    position: relative;
+    padding: 17px;
+    margin-left: 40px;
+    margin-top: 30px;
+  }
+  .MiddleInfoBox1{
+    padding: 50px 46px;
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    left: 0;
+    top: 0;
+    border-radius: 51px;
+    object-fit: cover;
+    background-color: #54595F;
+    position: relative;
+  }
+  .Footer{
+    margin: 0px;
+    padding: 20.50px;
+  }
+  .MarqueeContent{
+    width: 50%;
+    position: absolute;
+    padding: 10px;
+    display: block;
+    position: absolute;
+    margin: -30px;
+    box-sizing: border-box;
+    opacity: 1;
+    padding: 17px 25px;
+    margin-bottom: 24px;
+    transform: translateZ(0) scale(1);
+  }
+  .MarqueeInfoBox1{
+    padding: 50px 46px;
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    left: 0;
+    top: 0;
+    border-radius: 51px;
+    object-fit: cover;
+    background-color: #54595F;
+    position: absolute;
+  }
+  
