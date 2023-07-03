@@ -34,6 +34,8 @@
     object-fit: cover;
     background-color: #54595F;
     position: absolute;
+    transition-duration: 1s, 2s, 5s;
+    transition-timing-function:  ease, ease-out, linear;
   }
   .InfoBox2{
     padding: 50px 46px;
