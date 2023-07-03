@@ -31,7 +31,7 @@ export default class TopContent extends React.Component {
             }}
             className="MarqueeInfoBox1"
           >
-            <marquee className="MarqueeContent">Latest News</marquee>
+            <marquee className="MarqueeContent1">Latest News</marquee>
           </Box>
 
           <Grid item xs={3.5}>
