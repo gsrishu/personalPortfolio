@@ -97,12 +97,9 @@
     transform: translateZ(0) scale(1);
   }
   .MarqueeInfoBox1{
-    padding: 50px 46px;
     display: flex;
     align-items: flex-start;
     gap: 30px;
-    left: 0;
-    top: 0;
     border-radius: 51px;
     object-fit: cover;
     background-color: #54595F;
