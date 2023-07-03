@@ -24,7 +24,7 @@ export default class TopContent extends React.Component {
           spacing={2}
           className="rightInfoBox"
         >
-          {/* <Box
+          <Box
             sx={{
               width: 590,
               height: 38,
@@ -32,7 +32,7 @@ export default class TopContent extends React.Component {
             className="MarqueeInfoBox1"
           >
             <marquee className="MarqueeContent">Latest News</marquee>
-          </Box> */}
+          </Box>
 
           <Grid item xs={3.5}>
             <Box
